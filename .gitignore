@@ -1,0 +1,14 @@
+# Dados e modelos gerados (ficam no Google Drive)
+*.npz
+*.keras
+*.h5
+*.tflite
+datasets/
+cache*/
+resultados*/
+modelos*/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.env
